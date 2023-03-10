@@ -1,0 +1,7 @@
+Los sistemas de control de versiones son herramientas que permiten gestionar el historial de cambios en un conjunto de archivos. Con ellos, se pueden realizar las siguientes acciones:
+
+Registrar cambios en los archivos y guardarlos en una base de datos centralizada o distribuida.
+Volver a versiones anteriores de los archivos, lo que permite deshacer cambios no deseados o recuperar versiones antiguas.
+Trabajar de manera colaborativa en los archivos con otros usuarios, permitiendo que varias personas puedan trabajar en el mismo archivo sin que se produzcan conflictos.
+Comparar y fusionar cambios realizados por distintos usuarios.
+Facilitar la gestión y mantenimiento del código fuente y otros archivos, lo que reduce el tiempo y el riesgo asociado a la gestión manual de versiones
